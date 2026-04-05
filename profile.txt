@@ -1,0 +1,8 @@
+My name is Gokula krishnan.
+I'm currently learning about blockchain, AI and DevOps.
+
+My career goal is to become a Smart contract developer or AI engineer. I'm especially interested in automation and machine learning.
+
+I have experience with Python, n8n, C++ etc. I'm currently building projects on NextWork to improve my skills.
+
+For fun, I enjoy watching sci-fi movies. A fun fact about me is that i can solve a rubik's cube in under 2 minutes.

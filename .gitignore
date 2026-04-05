@@ -1,0 +1,8 @@
+# Question cache
+__pycache__/
+
+# Vector database
+chroma_db/
+
+# Local AI model
+venv/
