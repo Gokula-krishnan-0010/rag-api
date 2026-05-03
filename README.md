@@ -17,9 +17,14 @@ curl http://localhost:11434
 Requirement - python ^3.13
 
 ```bash
+# check python
 python3.13 --version
 
+<<<<<<< HEAD
 # Create a virtual environment
+=======
+# create venv
+>>>>>>> 0c93273 (Update setup with requirements.txt)
 python3.13 -m venv venv
 source venv/bin/activate
 ```
@@ -27,9 +32,10 @@ source venv/bin/activate
 Install dependencies
 
 ```bash
-pip install fastapi uvicorn chromadb ollama
-ollama pull nomic-embed-text
+pip install -r requirements.txt
 
+# ollama setup
+ollama pull nomic-embed-text
 ollama list
 ```
 
