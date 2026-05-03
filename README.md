@@ -8,6 +8,7 @@
 #Linux
 curl -fsSL https://ollama.com/install.sh | sh
 
+# install local AI model
 ollama pull gemma3:1b
 curl http://localhost:11434
 ```
@@ -20,11 +21,7 @@ Requirement - python ^3.13
 # check python
 python3.13 --version
 
-<<<<<<< HEAD
 # Create a virtual environment
-=======
-# create venv
->>>>>>> 0c93273 (Update setup with requirements.txt)
 python3.13 -m venv venv
 source venv/bin/activate
 ```
